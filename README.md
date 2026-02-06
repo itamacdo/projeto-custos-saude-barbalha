@@ -1,4 +1,4 @@
-# 🏥 Hub de Inteligência em Saúde | Barbalha-CE
+# Hub de Inteligência em Saúde | Barbalha-CE
 
 ![Visão Geral do Dashboard](assets/dashboard-home.png)
 
@@ -8,7 +8,7 @@ A ferramenta foi desenvolvida para permitir que gestores de saúde analisem a ef
 
 ---
 
-## 🚀 Funcionalidades Principais
+## Funcionalidades Principais
 
 * **Comparativo de Fechamento (Delta)**: Análise automática de variação de custos e internações entre dois meses selecionados (Ex: Dez/2024 vs Dez/2025).
 * **Gestão de Produção Hierárquica**: Utilização de **Treemaps** e gráficos de rosca para visualizar onde o recurso está sendo alocado (Unidade > Especialidade).
@@ -17,7 +17,7 @@ A ferramenta foi desenvolvida para permitir que gestores de saúde analisem a ef
 
 ---
 
-## 📊 Galeria de Visualizações
+## Galeria de Visualizações
 
 ### 1. Análise de Desempenho e Especialidades
 Visão detalhada da composição de custos usando Treemaps interativos e comparativos de mix de produção entre períodos.
@@ -32,7 +32,7 @@ Aba dedicada à transparência, permitindo a conferência detalhada de cada inte
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 O projeto foi construído com uma stack moderna de Data Science em Python:
 
@@ -43,7 +43,7 @@ O projeto foi construído com uma stack moderna de Data Science em Python:
 
 ---
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```text
 PROJETO_CUSTOS_SAUDE/
